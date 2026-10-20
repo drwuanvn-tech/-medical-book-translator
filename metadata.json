@@ -1,0 +1,6 @@
+{
+  "name": "MED-TRANSLATE-AI - Smart Medical Book Translator",
+  "description": "Smart Medical Book Translator & Learning Platform - Complete 5-Module Suite: Document Ingestion, Gemini 3.8 Flash Clinical Translation, Interactive Dual-Pane Reader, Medical Audio TTS & Speech Pronunciation Lab, PDF Export Service, Personal Medical Vocabulary Deck, and BYOK Settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
